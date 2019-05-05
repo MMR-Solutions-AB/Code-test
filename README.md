@@ -10,7 +10,7 @@ Submit all files that are in this repository, with your additions to the code.
 We look for:
 1. Scalability of your solution - How well does your code serve as a foundation for expansion of the code? 
 2. Ability To Learn - How well can you adapt to a newly given, small, code environment?
-3. Code Reusage - How often do you reuse your/our scalable code? 
+3. D.R.Y - Keep the code D.R.Y (Do not Repeat Yourself)
 4. Problem Solving Ability - How well can you find information within documentation?
 
 ### Useful Documentation:
