@@ -19,9 +19,7 @@ We look for:
 * [Import / Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
 ### Where to implement your solutions:
-Write code in to the existing files in this project.
-
-** Please note that you do not need to create ANY new files to solve any of the following assignments. If you really want to, you may, but it should not be needed. **
+Write code in to the existing files in this project. Add files if you have to.
 
 ### Three Assignments:
 1. Use the JSON object called "data" from the file data.js. Display a card for each "color" in the data. Display the name of the color and a sample of the color. For the cards, you will find a template named card.html. Use this template when displaying the cards. 
