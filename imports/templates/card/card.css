@@ -1,0 +1,18 @@
+.card {
+    width: 50vw;
+    height: 30vh;
+    margin: auto;
+    margin-top: 2vh;
+    margin-bottom: 2vh; 
+    background: #f3e5f5;
+}
+
+.title {
+    text-align: center;
+    padding: 2vh 0px;
+}
+
+.sample{
+    height: 7vh;
+    width: 7vw;
+}

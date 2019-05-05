@@ -1,0 +1,13 @@
+<template name="list">
+    <h1>Hellow world</h1>
+
+    <div>
+        <!-- <button id="random">Random</button> -->
+        <!-- <input type="text" name="text" value="{{text}}"/> -->
+        <input id="numberOfCards" type="range" name="points" min="1" max="{{listLength}}">
+    </div>
+
+    {{#each color in colors}}
+        {{> card title=color.color  hex=color.code.hex rgba=color.code.rgba}}
+    {{/each}}
+</template>
