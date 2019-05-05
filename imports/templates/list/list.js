@@ -6,6 +6,7 @@ import { ReactiveVar } from 'meteor/reactive-var';
 // Data
 import { data as DATA } from '/imports/data.js';
 
+// Global variables
 let colors, currenctColors;
 
 /**
@@ -43,7 +44,6 @@ const getRandomeColors = (list, numberOfCards) => {
 };
 
 Template.list.onCreated(() => {
-    console.log(DATA.colors);
     colors = DATA.colors;
     let template = Template.instance();
     template.currenctColors = new ReactiveVar(getRandomeColors(colors, 5));

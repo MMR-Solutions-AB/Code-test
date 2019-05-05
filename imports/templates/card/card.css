@@ -14,5 +14,10 @@
 
 .sample{
     height: 7vh;
-    width: 7vw;
+    width: 100%;
+}
+
+.showcase{
+    width: 20%;
+    margin: auto;
 }
