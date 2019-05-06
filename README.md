@@ -18,13 +18,13 @@ We look for:
 * [BlazeJS](http://blazejs.org/)
 * [Import / Export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
-### Where to implement your solutions:
+### Where To Implement Your Solutions:
 Write code in to the existing files in this project. Add files if you have to.
 
 ### How To Get Started:
 This project is built with the full-stack framework MeteorJS. To run the program, do the following:
 
-1. Open your Terminal / Commandline. 
+1. Open your Terminal / Command Line. 
 2. Navigate to the directory with the code. (Ex. ```` cd Code-test````)
 3. If it's your first time running the code, run the command ```` meteor npm install --save @babel/runtime ````
 4. After that has finished, to start the program, simply run the command ```` meteor ````
