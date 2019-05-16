@@ -6,6 +6,8 @@ The test is divided into 3 steps. Try to complete each step before proceeding to
 ### What To Submit
 Submit all files that are in this repository, with your additions to the code.
 
+Send us the solution files, or send us a link to a GIT repo with your solution files.
+
 ### What We Look For In Your Solution:
 We look for:
 1. Scalability of your solution - How well does your code serve as a foundation for expansion of the code? 
@@ -22,13 +24,16 @@ We look for:
 Write code in to the existing files in this project. Add files if you have to.
 
 ### How To Get Started:
-This project is built with the full-stack framework MeteorJS. To run the program, do the following:
+Either download this project as a ZIP, or fork this repo. After you've downloaded this test to your computer, do the following:
 
 1. Open your Terminal / Command Line. 
 2. Navigate to the directory with the code. (Ex. ```` cd Code-test````)
 3. If it's your first time running the code, run the command ```` meteor npm install --save @babel/runtime ````
 4. After that has finished, to start the program, simply run the command ```` meteor ````
 5. If you have any issues or get error messages you're unfamiliar with, please refer to the MeteorJS documentation, linked above! 
+
+### Installation Problems
+If you encounter any installation issues that seem tricky to solve on your own, please do contact us. The test's purpose is not to see if you can install different development tools. The purpose is to see how you can adapt to a new dev-environment.
 
 ### Three Assignments:
 1. Use the JSON object called "data" from the file data.js. Display a card for each "color" in the data. Display the name of the color and a sample of the color. For the cards, you will find a template named card.html. Use this template when displaying the cards. 
